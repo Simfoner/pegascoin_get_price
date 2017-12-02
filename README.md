@@ -1,0 +1,1 @@
+Pegascoin get Price Bot
